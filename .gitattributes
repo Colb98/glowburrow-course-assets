@@ -1,0 +1,6 @@
+*.md text eol=lf
+*.fbx binary
+*.blend binary
+*.png binary
+*.gif binary
+*.mp4 binary
